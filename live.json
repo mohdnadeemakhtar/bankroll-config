@@ -1,7 +1,6 @@
-[
+
   {
     "alias": "service.connections.concurrent.max",
     "description": "Concurrent service connections per route.",
     "defaultValue": "30"
   }
-]
